@@ -180,16 +180,6 @@ models = [
         sha='4922099342af5993d9d09f63081c8a392f3c1cc6',
         filename='DenseNet_121.prototxt'),
     Model(
-        name='Fast-Neural-Style',
-        url='http://cs.stanford.edu/people/jcjohns/fast-neural-style/models/eccv16/starry_night.t7',
-        sha='5b5e115253197b84d6c6ece1dafe6c15d7105ca6',
-        filename='fast_neural_style_eccv16_starry_night.t7'),
-    Model(
-        name='Fast-Neural-Style',
-        url='http://cs.stanford.edu/people/jcjohns/fast-neural-style/models/instance_norm/feathers.t7',
-        sha='9838007df750d483b5b5e90b92d76e8ada5a31c0',
-        filename='fast_neural_style_instance_norm_feathers.t7'),
-    Model(
         name='MobileNet-SSD (TensorFlow)',
         url='http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_11_06_2017.tar.gz',
         sha='a88a18cca9fe4f9e496d73b8548bfd157ad286e2',
